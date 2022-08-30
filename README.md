@@ -8,13 +8,13 @@
 
 
 ## Usage
-
+![usa](https://user-images.githubusercontent.com/100335717/187323111-4d3751b6-3104-467a-bef5-f132078d27e8.png)
 
 
 
 
 ## Installation
-https://user-images.githubusercontent.com/100335717/187322125-ea056926-40b6-485e-ac0b-8644e60e51a2.mov
+![Install](https://user-images.githubusercontent.com/100335717/187322125-ea056926-40b6-485e-ac0b-8644e60e51a2.mov)
 
 
 
