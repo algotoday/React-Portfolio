@@ -7,7 +7,7 @@ function About() {
       <h1 id="about">I'm A...</h1>
       <br>
       </br>
-      <p> <p>Software Engineer who retains diverse attributes such as: 
+      <p>Software Engineer who retains diverse attributes such as: 
          Financial Analysis, Project Management, Content Development/Strategy and Digital Marketing, 
          as well as other experiential efficacies that I have gained from both the Private and Tech sectors...
          <br>
