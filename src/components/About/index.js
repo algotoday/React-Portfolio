@@ -4,16 +4,24 @@ import React from 'react';
 function About() {
   return (
     <section class="about">
-      <h1 id="about">I'm an About Me section</h1>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing 
-        elit, sed do eiusmod tempor incididunt ut labore et 
-        dolore magna aliqua. Ut enim ad minim veniam, quis 
-        nostrud exercitation ullamco laboris nisi ut aliquip 
-        ex ea commodo consequat. Duis aute irure dolor in 
-        reprehenderit in voluptate velit esse cillum dolore 
-        eu fugiat nulla pariatur. Excepteur sint occaecat 
-        cupidatat non proident, sunt in culpa qui officia 
-        deserunt mollit anim id est laborum.</p>
+      <h1 id="about">I'm A...</h1>
+      <br>
+      </br>
+      <p>Software Engineer who retains diverse attributes such as: 
+         Financial Analysis, Project Management, Content Development/Strategy and Digital Marketing, 
+         as well as other experiential efficacies that I have gained from both the Private and Tech sectors...
+         <br>
+         Having recently graduated from UCLA's Full Stack Web Development Extended Program - I am 
+         now certified and proficient in both Front/Back-End as well as various Dev Tools and Database applications.
+         
+         </br>
+         I offer broad organizational perspective and results-driven approach to projects, products and strategies 
+         with a focus on mobile-first and responsive web design.
+         
+         Resolved to forging new ground in many areas, including, but not limited to: UI and UX for the end user -
+         "Always bearing in mind that for every problem, there is always more than on solution...".
+         
+         </p>
     </section>
   );
 }
