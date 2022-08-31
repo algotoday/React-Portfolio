@@ -20,7 +20,9 @@ function About() {
          
          Resolved to forging new ground in many areas, including, but not limited to: UI and UX for the end user -
 
-         "Always bearing in mind that for every problem, there is always more than on solution..."
+         
+         "Always bearing in mind that for every problem, there is always more than on solution...".
+
          
          </p>
     </section>
