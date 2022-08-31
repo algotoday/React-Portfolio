@@ -1,9 +1,9 @@
 import React, {Component} from 'react';
 import { HashRouter, Route, Routes } from 'react-router-dom';
-import Landing from './Landing';
 import './App.css';
 
 import Header from './components/Header';
+import Landing from './components/Landing';
 import About from './components/About';
 import Contact from './components/Contact';
 import Portfolio from './components/Portfolio';
