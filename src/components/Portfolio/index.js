@@ -1,11 +1,11 @@
 import React from 'react';
 
-import PlaceHolderOne from "../../assets/images/placeholder_1_600.jpg";
-import PlaceHolderTwo from "../../assets/images/placeholder_2_600.jpg";
-import PlaceHolderThree from "../../assets/images/placeholder_3_600.jpg";
-import LookUp from "../../assets/images/LookUp-new.png";
-import MakeAppoint from "../../assets/images/make-a-point-app.png";
-import FinalProject from "../../assets/images/Final-Project.jpg";
+import Chesme from "../../assets/images/Chesme.png";
+import NoteTaker from "../../assets/images/Note-Taker.png";
+import Caesarskitchen from "../../assets/images/CaesarsKitchen.png";
+import TeamProfileGenerator from "../../assets/images/Team Profile Generator.png";
+import WeatherDashboard from "../../assets/images/Weather Dashboard.png";
+import WorkDayScheduler from "../../assets/images/Work Day Scheduler 2.png";
 
 function Portfolio() {
   return (
@@ -15,16 +15,16 @@ function Portfolio() {
         <div class="col">
           <div class="card">
             <img
-              src={LookUp}
-              alt="lookUp"
+              src={Chesme}
+              alt="Chesme"
               class="card-img-top"
             />
             <div class="card-body">
 
-              <a href="https://github.com/kara-krzystan/lookup-by-ben-kara-kristin" target="_blank" rel="noreferrer">
+              <a href="https://github.com/algotoday/chesme" target="_blank" rel="noreferrer">
                 <button>GitHub</button>
               </a>
-              <a href="https://benmcrae5.github.io/lookup-by-ben-kara-kristin" target="_blank" rel="noreferrer">
+              <a href="https://github.com/algotoday/chesme" target="_blank" rel="noreferrer">
                 <button>Website</button>
               </a>
             </div>
@@ -35,15 +35,15 @@ function Portfolio() {
         <div class="col">
           <div class="card">
             <img
-              src={MakeAppoint}
-              alt="Make A'Point"
+              src={NoteTaker}
+              alt="Note-Taker"
               class="card-img-top"
             />
             <div class="card-body">
-              <a href="https://github.com/kara-krzystan/Team-Project-Wk15" target="_blank" rel="noreferrer">
+              <a href="https://github.com/algotoday/Note-Taker" target="_blank" rel="noreferrer">
                 <button>GitHub</button>
               </a>
-              <a href="https://team-project-wk15.herokuapp.com/" target="_blank" rel="noreferrer">
+              <a href="https://secret-plateau-89761.herokuapp.com/" target="_blank" rel="noreferrer">
                 <button>Website</button>
               </a>
             </div>
@@ -53,15 +53,15 @@ function Portfolio() {
         <div class="col">
           <div class="card">
             <img
-              src={FinalProject}
-              alt="Final Project"
+              src={Caesarskitchen}
+              alt="Caesar's Kitchen"
               class="card-img-top"
             />
             <div class="card-body">
-              <a href="https://github.com/kara-krzystan/final-final-v3" target="_blank" rel="noreferrer">
+              <a href="https://github.com/algotoday/Newck-Project" target="_blank" rel="noreferrer">
                 <button>GitHub</button>
               </a>
-              <a href="https://radiant-scrubland-03545.herokuapp.com/" target="_blank" rel="noreferrer">
+              <a href="https://ck-shopping.herokuapp.com/" target="_blank" rel="noreferrer">
                 <button>Website</button>
               </a>
             </div>
@@ -72,15 +72,15 @@ function Portfolio() {
         <div class="col">
           <div class="card">
             <img
-              src={PlaceHolderOne}
-              alt="Coming Soon"
+              src={TeamProfileGenerator}
+              alt="Team Profile Generator"
               class="card-img-top"
             />
             <div class="card-body">
-              <a href="https://github.com/kara-krzystan" target="_blank" rel="noreferrer">
+              <a href="https://github.com/algotoday/Team-Profile-Generator" target="_blank" rel="noreferrer">
                 <button>GitHub</button>
               </a>
-              <a href="https://github.com/kara-krzystan" target="_blank" rel="noreferrer">
+              <a href="https://github.com/algotoday/Team-Profile-Generator" target="_blank" rel="noreferrer">
                 <button>Website</button>
               </a>
             </div>
@@ -90,15 +90,15 @@ function Portfolio() {
         <div class="col">
           <div class="card">
             <img
-              src={PlaceHolderTwo}
-              alt="Coming Soon"
+              src={WeatherDashboard}
+              alt="Weather Dashboard"
               class="card-img-top"
             />
             <div class="card-body">
-              <a href="https://github.com/kara-krzystan" target="_blank" rel="noreferrer">
+              <a href="https://github.com/algotoday/Weather-Dashboard" target="_blank" rel="noreferrer">
                 <button>GitHub</button>
               </a>
-              <a href="https://github.com/kara-krzystan" target="_blank" rel="noreferrer">
+              <a href="https://github.com/algotoday/Weather-Dashboard" target="_blank" rel="noreferrer">
                 <button>Website</button>
               </a>
             </div>
@@ -108,15 +108,15 @@ function Portfolio() {
         <div class="col">
           <div class="card">
             <img
-              src={PlaceHolderThree}
-              alt="Coming Soon"
+              src={WorkDayScheduler}
+              alt="Work Day Scheduler"
               class="card-img-top"
             />
             <div class="card-body">
-              <a href="https://github.com/kara-krzystan" target="_blank" rel="noreferrer">
+              <a href="https://github.com/algotoday/Work-Day-Scheduler" target="_blank" rel="noreferrer">
                 <button>GitHub</button>
               </a>
-              <a href="https://github.com/kara-krzystan" target="_blank" rel="noreferrer">
+              <a href="https://algotoday.github.io/Work-Day-Scheduler/" target="_blank" rel="noreferrer">
                 <button>Website</button>
               </a>
             </div>

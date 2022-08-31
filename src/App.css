@@ -106,7 +106,7 @@ header {
   align-items: baseline;
   padding: 10px;
   border-bottom: 2px solid black;
-  background: wheat;
+  background: #f1515e;
 }
 
 header a {
@@ -172,13 +172,13 @@ li {
 
 nav a:hover {
   text-decoration: none;
-  color: black;
+  color: #1DBDE6;
   font-style: italic;
 }
 
 .logo a:hover {
   text-decoration: none;
-  color: black;
+  color: #1DBDE6;
   font-style: italic;
 }
 
@@ -322,7 +322,7 @@ footer {
   justify-content: center;
   align-items: center;
   border-top: 2px solid black;
-  background: wheat; 
+  background: #f1515e; 
 }
 
 li {

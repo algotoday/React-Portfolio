@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from "react-router-dom";
-import Portrait from "../../assets/images/profile_pic.jpg";
+import Portrait from "../../src/assets/images/Profile.webp";
 
 function Home() {
   return (
