@@ -1,12 +1,13 @@
 import React, {Component} from 'react';
-import { HashRouter, Route } from 'react-router-dom';
+import { HashRouter, Route, Routes } from 'react-router-dom';
 import './App.css';
 
 import Header from './components/Header';
-import Home from './components/Home';
+import Landing from './components/Landing';
 import About from './components/About';
 import Contact from './components/Contact';
 import Portfolio from './components/Portfolio';
+import Resume from './components/Resume';
 import Footer from './components/Footer';
 
 class App extends Component {
@@ -17,11 +18,13 @@ class App extends Component {
           <Header />
           <main>
 
-            <Route exact path="/" component={Home} />
-            <Route exact path="/about" component={About} />
-            <Route exact path="/contact" component={Contact} />
-            <Route exact path="/portfolio" component={Portfolio} />
-
+            <Routes>
+              <Route exact path="/" component={Landing} />
+              <Route exact path="/about" component={About} />
+              <Route exact path="/contact" component={Contact} />
+              <Route exact path="/portfolio" component={Portfolio} />
+              <Route exact path="/resume" component={Resume} />
+            </Routes>
           </main>
           <Footer />
         </div>

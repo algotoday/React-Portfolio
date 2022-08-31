@@ -3,7 +3,7 @@ import React from 'react';
 function Resume() {
   return (
     <section>
-      <h1>I'm a Downloadable Resume</h1>
+      <h1>Download my Resume</h1>
     </section>
   );
 }

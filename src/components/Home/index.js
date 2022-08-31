@@ -1,15 +1,13 @@
 import React from 'react';
 import { Link } from "react-router-dom";
-import Portrait from "../../assets/images/profile_pic.jpg";
+import Portrait from "../../assets/images/Profile.webp";
 
 function Home() {
   return (
     <section className="home my-5">
       <div className="title">
-        <h2>Hi, I'm Kara</h2>
-        <p>Welcome to my Student Portfolio!</p>
         <Link to="portfolio">
-          <button>View my Projects</button>
+          <button>View Projects</button>
         </Link>
       </div>
       <div className="portrait">
