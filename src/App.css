@@ -106,7 +106,7 @@ header {
   align-items: baseline;
   padding: 10px;
   border-bottom: 2px solid black;
-  background: #f1515e;
+  background: #2c59d4;
 }
 
 header a {
@@ -277,7 +277,7 @@ button {
   outline: none;
   border-radius: 55px;
   color: #fff;
-  background: #3b3b3b;
+  background: #e081d2f5;
   cursor: pointer;
   font-size: 18px;
   font-weight: 400;

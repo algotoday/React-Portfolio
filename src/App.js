@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-import { HashRouter, Route } from 'react-router-dom';
+import { HashRouter, Route, Routes } from 'react-router-dom';
 import './App.css';
 
 import Header from './components/Header';
@@ -17,11 +17,12 @@ class App extends Component {
           <Header />
           <main>
 
-            <Route exact path="/" component={Home} />
-            <Route exact path="/about" component={About} />
-            <Route exact path="/contact" component={Contact} />
-            <Route exact path="/portfolio" component={Portfolio} />
-
+            <Routes>
+              <Route exact path="/" component={Home} />
+              <Route exact path="/about" component={About} />
+              <Route exact path="/contact" component={Contact} />
+              <Route exact path="/portfolio" component={Portfolio} />
+            </Routes>
           </main>
           <Footer />
         </div>

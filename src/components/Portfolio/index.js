@@ -3,9 +3,9 @@ import React from 'react';
 import Chesme from "../../assets/images/Chesme.png";
 import NoteTaker from "../../assets/images/Note-Taker.png";
 import Caesarskitchen from "../../assets/images/CaesarsKitchen.png";
-import TeamProfileGenerator from "../../assets/images/Team Profile Generator.png";
-import WeatherDashboard from "../../assets/images/Weather Dashboard.png";
-import WorkDayScheduler from "../../assets/images/Work Day Scheduler 2.png";
+import TeamProfileGenerator from "../../assets/images/TeamProfileGenerator.png";
+import WeatherDashboard from "../../assets/images/WeatherDashboard.png";
+import WorkDayScheduler2 from "../../assets/images/WorkDayScheduler2.png";
 
 function Portfolio() {
   return (
@@ -108,8 +108,8 @@ function Portfolio() {
         <div class="col">
           <div class="card">
             <img
-              src={WorkDayScheduler}
-              alt="Work Day Scheduler"
+              src={WorkDayScheduler2}
+              alt="Work Day Scheduler2"
               class="card-img-top"
             />
             <div class="card-body">
